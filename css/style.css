@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Noto+Sans+JP:wght@300&family=Piazzolla:ital,wght@0,300;0,400;0,900;1,200&family=Poppins:ital,wght@0,900;1,800&family=Ubuntu:ital,wght@0,300;1,300&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Acme',sans-serif;
+}
+body{
+    background-color: #0a3d62;
+
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+.dice{
+    text-align: center;
+    display: inline-block;
+}
+h1{
+    margin: 30px;
+    text-shadow: 5px 5px white;
+    font-size: 6rem;
+    color: #f6b93b;
+}
+p{
+    font-size: 2rem;
+    color: #00b894;
+    text-shadow: 1px 1px white;
+
+}
+button{
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #00b894;
+    border: none;
+}
+img{
+    width: 85%;
+}
